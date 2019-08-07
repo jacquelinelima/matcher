@@ -1,2 +1,3 @@
 # Matcher
-Studies using NodeJS and MongoDB to build APIs
+
+API to connect developers with a GitHub username, inspired on Tinder's model.
